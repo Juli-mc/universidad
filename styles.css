@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: lightgray;
+}
+
+.titleSection{
+    background-color: #ffff;
+    padding: 2%;
+}
+
+.imageSection {
+    text-align: center;
+}
+
+.imageSection img {
+    display: inline-block;
+}
+
+.bioSection{
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.videoSection{
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
